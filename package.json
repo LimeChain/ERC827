@@ -1,0 +1,20 @@
+{
+  "name": "erc827",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^3.0.21",
+    "openzeppelin-solidity": "^1.10.0",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider-privkey": "^0.2.0"
+  }
+}
